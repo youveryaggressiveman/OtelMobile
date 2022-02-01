@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Otel</string>
+    <string name="authorize_heading">Авторизация</string>
+    <string name="phone">Введите телефон: </string>
+    <string name="password">Введите пароль: </string>
+    <string name="authorize_button">Авторизоваться</string>
+    <string name="heading">\uD83C\uDF34 | HotelCity</string>
+    <string name="all_ticket_heading">Список всех заказов</string>
+    <string name="info_about_ticket_heading">Информация о заказе</string>
+    <string name="name_user">Имя</string>
+    <string name="phone_user">Телефон</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Пока</string>
+</resources>
